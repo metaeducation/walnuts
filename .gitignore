@@ -1,0 +1,11 @@
+!.gitignore
+.highlight_cache
+ebooks/*
+epub/*
+log/*
+tmp/*
+generated_polytex/*
+latex_styles/softcover.sty
+latex_styles/polytexnic_commands.sty
+html/*
+walnuts.tex
